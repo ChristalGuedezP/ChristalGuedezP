@@ -7,3 +7,4 @@ En mi travesía educativa en Laboratoria, he cultivado habilidades fundamentales
 
 -------------
 # 🌐 Socials:
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1200px-LinkedIn_2021.svg.png)](www.linkedin.com/in/christalguedezp)
